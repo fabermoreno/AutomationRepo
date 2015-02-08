@@ -1,0 +1,50 @@
+2015-02-07 17:43:00,637 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.globant.training:glb_training:0.0.1 @ C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\pom.xml.
+2015-02-07 17:43:05,494 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.globant.training:glb_training:0.0.1 @ C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\pom.xml.
+2015-02-07 17:43:06,495 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /glb_training/src/main/java
+2015-02-07 17:43:06,495 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /glb_training/src/test/java
+2015-02-07 17:43:09,109 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 21 sec
+2015-02-07 17:43:13,786 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.globant.training:glb_training:0.0.1 @ C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\pom.xml.
+2015-02-07 17:43:15,408 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:43:15,408 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\main\resources
+2015-02-07 17:43:15,408 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:43:15,408 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\test\resources
+2015-02-07 17:43:20,776 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-02-07 17:43:35,477 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\IEUser\MyRepo\AutomationRepo\glb_training
+2015-02-07 17:43:35,477 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U mvn clean
+2015-02-07 17:44:17,233 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:44:17,233 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\main\resources
+2015-02-07 17:44:17,233 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:44:17,233 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\test\resources
+2015-02-07 17:44:23,412 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.globant.training:glb_training:0.0.1 @ C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\pom.xml.
+2015-02-07 17:44:24,604 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:44:24,614 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\main\resources
+2015-02-07 17:44:24,614 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:44:24,614 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\test\resources
+2015-02-07 17:52:25,611 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.globant.training:glb_training:0.0.1 @ C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\pom.xml.
+2015-02-07 17:52:25,621 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.globant.training:glb_training:0.0.1 @ C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\pom.xml.
+2015-02-07 17:52:39,220 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:52:39,220 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\main\resources
+2015-02-07 17:52:39,230 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:52:39,230 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\test\resources
+2015-02-07 17:52:40,432 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.globant.training:glb_training:0.0.1 @ C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\pom.xml.
+2015-02-07 17:52:45,259 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:52:45,259 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\main\resources
+2015-02-07 17:52:45,269 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:52:45,269 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\test\resources
+2015-02-07 17:56:01,762 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.globant.training:glb_training:0.0.1 @ C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\pom.xml.
+2015-02-07 17:56:02,943 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:56:02,943 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\main\resources
+2015-02-07 17:56:02,943 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:56:02,943 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\test\resources
+2015-02-07 17:56:11,235 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-02-07 17:56:12,076 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\IEUser\MyRepo\AutomationRepo\glb_training
+2015-02-07 17:56:12,076 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U mvn clean
+2015-02-07 17:57:00,970 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\IEUser\MyRepo\AutomationRepo\glb_training
+2015-02-07 17:57:00,970 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e -U clean install
+2015-02-07 17:59:12,999 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:59:12,999 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\main\resources
+2015-02-07 17:59:13,009 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-07 17:59:13,009 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IEUser\MyRepo\AutomationRepo\glb_training\src\test\resources
+2015-02-07 17:59:22,472 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-02-07 17:59:22,572 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\IEUser\MyRepo\AutomationRepo\glb_training
+2015-02-07 17:59:22,572 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e -U clean install
